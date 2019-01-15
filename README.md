@@ -1,12 +1,19 @@
 ## Curriculum Design of 2018 Data structures and algorithms
 
+- Huazhong University of Science and Technology （HUST）
+
+- teacher : gang shen
+
 - author : zhanke zhou (andrew)
+
 - topic   : study the graph isomorphism problem through machine learning as well as neural network
+
 - how to run
-  - before run , please make sure the environment is prepared : `python3.6` `NetworkX 1.6` `sklearn` `keras`
+  - before running , please make sure the environment is prepared : `python3.6` `NetworkX 1.6` `sklearn` `keras`
   - cd src/scripts/model
     - `python3 navie_model.py` to run the logistic regression and get result
     - `python3 navie_nn_model.py` to run the neural network and get result
+
 - the result
   - 300 12-node graph pairs 
     - Logistic Regression :85.0%
